@@ -1,0 +1,1 @@
+[{"id":"58df0b85-e12b-4e0d-88b5-d05f4b9df52e","firstName":"Roberto","lastName":"Ortiz","pet":"Dinosaurio","neighborhood":"Marquetalia","email":"andres@gmail.com","password":"$2a$10$cjNZOVI0/AoVijAVeZrNbOMlRm5ndd/xKC9tRYe7QnVfFpS7GG.wa"}]
